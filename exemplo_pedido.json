@@ -1,0 +1,29 @@
+{
+  "cliente": null,
+  "itens": [
+    {
+      "descricao_cliente": "1.500 adesivos personalizados em BOPP",
+      "produto": "adesivo personalizado BOPP",
+      "slug_futura": "adesivo-personalizado",
+      "quantidade": 1500,
+      "atributos": {
+        "modelo": "Redondo",
+        "material": "BOPP Adesivo Branco Brilho 50g",
+        "formato": "50x50mm",
+        "cor": "4x0",
+        "enobrecimento": "Sem Enobrecimento"
+      },
+      "suposicoes": [
+        "Formato não informado: usado redondo 50x50mm (padrão do site)",
+        "Tipo de BOPP não informado: usado branco brilho",
+        "Sem acabamento especial (o padrão do site inclui hot stamping dourado)"
+      ]
+    }
+  ],
+  "perguntas_ao_cliente": [
+    "Qual formato e tamanho? (redondo, quadrado, retangular, oval ou corte especial)",
+    "BOPP branco brilho, branco fosco, transparente ou metalizado?",
+    "Quer laminação, verniz localizado ou hot stamping?",
+    "A arte já está pronta?"
+  ]
+}

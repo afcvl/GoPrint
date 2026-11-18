@@ -1,0 +1,28 @@
+{
+  "cliente": null,
+  "itens": [
+    {
+      "descricao_cliente": "3.500 folhetos couché brilho 170g",
+      "produto": "folheto couché brilho",
+      "slug_futura": "folheto-em-couche-brilho",
+      "quantidade": 3500,
+      "atributos": {
+        "material": "Couché Brilho 170g",
+        "formato": "100x140mm",
+        "cor": "4x0",
+        "enobrecimento": "Sem Enobrecimento",
+        "acabamento": "Refile"
+      },
+      "suposicoes": [
+        "Tamanho não informado: usado 100x140mm (padrão do site)",
+        "Impressão não informada: usado 4x0 (só frente)",
+        "Se não houver faixa de 3.500, o script usa a próxima faixa acima"
+      ]
+    }
+  ],
+  "perguntas_ao_cliente": [
+    "Qual o tamanho do folheto? (ex.: 10x14 cm, 14x20 cm/A5, 20x28 cm/A4)",
+    "Impressão só na frente ou frente e verso?",
+    "A arte já está pronta ou precisa de criação?"
+  ]
+}
